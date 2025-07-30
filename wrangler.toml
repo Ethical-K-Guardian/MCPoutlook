@@ -1,0 +1,9 @@
+name = "mcp-outlook-worker"
+type = "javascript"
+
+account_id = "9e67957b3805efb3cc18f165e8d8163b"
+workers_dev = true
+compatibility_date = "2024-01-01"
+
+[build]
+upload.format = "modules"
